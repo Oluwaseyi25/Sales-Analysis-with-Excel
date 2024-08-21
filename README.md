@@ -8,6 +8,7 @@ Region: The geographical area where the sale occurred (North, South, East, West)
 Product: The specific product sold (Product A, Product B, Product C, Product D).
 Sales_Amount: The revenue generated from the sale.
 Units_Sold: The number of units sold in the transaction.
+
 Business Cases Solved:
 Identifying Top-Performing Products:
 
