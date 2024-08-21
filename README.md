@@ -10,9 +10,9 @@ Sales_Amount: The revenue generated from the sale.
 Units_Sold: The number of units sold in the transaction.
 
 Business Cases Solved:
-Identifying Top-Performing Products:
 
-1. Analyze which products generate the highest revenue and have the highest sales volume.
+1. Identifying Top-Performing Products:
+Analyze which products generate the highest revenue and have the highest sales volume.
 Tools: Pivot tables and bar charts.
 Outcome: A clear understanding of the most profitable and popular products.
 Regional Sales Analysis:
